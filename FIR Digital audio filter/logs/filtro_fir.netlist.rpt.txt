@@ -1,0 +1,59 @@
+
+18. Printing statistics.
+
+=== filtro_fir ===
+
+   Number of wires:               4903
+   Number of wire bits:           5064
+   Number of public wires:        4903
+   Number of public wire bits:    5064
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               5028
+     AN211X1                         7
+     AN21X1                        405
+     AN221X1                         4
+     AN22X1                        218
+     AN311X1                         3
+     AN31X1                        116
+     AN32X1                          5
+     AND2X2                        118
+     AND3X4                         23
+     AND4X1                          4
+     AND5X1                          3
+     AO21X4                          4
+     AO22X2                          4
+     AO31X1                          8
+     DFRQX1                         56
+     EN2X1                          68
+     EN3X1                          15
+     EO2X1                           8
+     EO3X1                           1
+     INX1                          175
+     MU2IX1                          2
+     NA2I1X1                       196
+     NA2X1                        1347
+     NA3I1X1                       375
+     NA3I2X1                         7
+     NA3X1                         674
+     NO2I1X1                        48
+     NO2X1                         377
+     NO3I1X1                         8
+     NO3X1                          39
+     OA21X4                         19
+     OA221X1                         1
+     OA22X4                         10
+     OA31X4                          2
+     ON211X1                       109
+     ON21X1                        393
+     ON221X1                         2
+     ON22X1                         94
+     ON311X1                         1
+     ON31X1                         15
+     ON32X1                         23
+     OR2X2                          40
+     OR3X3                           1
+
+   Chip area for this module: 395306.500000
+
